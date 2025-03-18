@@ -11,7 +11,7 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go. 
 
 # About me
-Hi folks, my name is Abigail Hartless (she/her) and I'm a second-year masters of arts management student at Carnegie Mellon University's Heinz College. My background is in theatre and classical musical, but I fully switched into theatre about four years ago. I'm the managing director of our on-campus student theatre group, meaning I'm in charge of all things finance. 
+Hi folks, my name is Abigail Hartless (she/her) and I'm a second-year masters of arts management student at Carnegie Mellon University's Heinz College. My background is in theatre and instrumental music, but I fully switched into theatre about four years ago. I'm the managing director of our on-campus student theatre group, meaning I'm in charge of all things finance. 
 
 # What I hope to learn
 My background is in language and writing, and I have a bad habit of data dumping. I'm looking to learn new ways to communication financial information to arts folks without scaring them (arts people are often scared of finance). I'm also excited to create data visualizations to help my writing and communication projects. 
