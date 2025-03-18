@@ -8,23 +8,13 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi folks, my name is Abigail Hartless (she/her) and I'm a second-year masters of arts management student at Carnegie Mellon University's Heinz College. My background is in theatre and classical musical, but I fully switched into theatre about four years ago. I'm the managing director of our on-campus student theatre group, meaning I'm in charge of all things finance. 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+My background is in language and writing, and I have a bad habit of data dumping. I'm looking to learn new ways to communication financial information to arts folks without scaring them (arts people are often scared of finance). I'm also excited to create data visualizations to help my writing and communication projects. 
 
 # Portfolio
 
