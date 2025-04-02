@@ -14,7 +14,7 @@ When initially looking at the visualizations, I was drawn to the caffeine conten
 The visualization left a lot to be desired, as the bright blue made it harder to see the text, the data was in a table, and then lots of White, or blue space, was taken up by a graphic of coffee cups, which was cute, but did not contribute to the story of the table or to the overall article.
 
 ## Step three: Sketch a solution
-
+Here are my two initial hand sketches, which I presented to my group members for interviews. 
 
 ## Step four: Test the solution
 
