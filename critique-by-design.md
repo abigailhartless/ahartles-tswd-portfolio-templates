@@ -15,8 +15,8 @@ The visualization left a lot to be desired, as the bright blue made it harder to
 
 ## Step three: Sketch a solution
 Here are my two initial hand sketches, which I presented to my group members for interviews. 
-![sketch1](31048A1F-34A5-4816-8DC5-2377FA3F8E1D.heic)
-![sketch2](AFAF1E14-696C-4A74-B6B1-D705760047BD.heic)
+![sketch1](IMG_3470.jpeg)
+![sketch2](IMG_3471.jpeg)
 
 ## Step four: Test the solution
 
