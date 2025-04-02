@@ -5,7 +5,8 @@ Makeover Monday: Caffeine Levels in High Street Coffee Vary Signficantly, Which?
 
 ## Step one: the visualization
 
-Here is the link to the original visualization and data source: https://www.which.co.uk/news/article/caffeine-levels-in-high-street-coffees-vary-significantly-which-finds-ay7cA4G1zh1S
+Here is the link to the original visualization and data source: https://www.which.co.uk/news/article/caffeine-levels-in-high-street-coffees-vary-significantly-which-finds-ay7cA4G1zh1S/
+
 
 When initially looking at the visualizations, I was drawn to the caffeine content of popular brands, as I was curious if it would confirm some suspicions I had. However, this is UK-based data, so it didn't fully accomplish that. When looking at the initial visualization, it was just a table, leaving not too much to edit, but more to create something from scratch. I knew I wanted to sort everything by brand, and have everything on a spectrum. 
 
@@ -44,7 +45,8 @@ Overall, I think it would've been easier to create something that started with a
 ## References
 My data was from Which?, with the below citation:
 
-Loth, Shefalee. “Caffeine Levels in High Street Coffees Vary Significantly, Which? Finds.” Which?, February 1, 2023. https://www.which.co.uk/news/article/caffeine-levels-in-high-street-coffees-vary-significantly-which-finds-ay7cA4G1zh1S.
+Loth, Shefalee. “Caffeine Levels in High Street Coffees Vary Significantly, Which? Finds.” Which?, February 1, 2023. https://www.which.co.uk/news/article/caffeine-levels-in-high-street-coffees-vary-significantly-which-finds-ay7cA4G1zh1S/
+
 
 ## AI acknowledgements
 I did not use any AI, unless there is any built into Datawrapper that I am not aware of. 
