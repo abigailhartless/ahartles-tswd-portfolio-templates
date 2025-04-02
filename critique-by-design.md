@@ -15,6 +15,7 @@ The visualization left a lot to be desired, as the bright blue made it harder to
 
 ## Step three: Sketch a solution
 Here are my two initial hand sketches, which I presented to my group members for interviews. 
+![funny dog picture](funny-dog-unsplash.jpg)
 
 ## Step four: Test the solution
 
