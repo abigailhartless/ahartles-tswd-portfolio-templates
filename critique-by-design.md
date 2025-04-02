@@ -14,6 +14,14 @@ When initially looking at the visualizations, I was drawn to the caffeine conten
 
 The visualization left a lot to be desired, as the bright blue made it harder to see the text, the data was in a table, and then lots of White, or blue space, was taken up by a graphic of coffee cups, which was cute, but did not contribute to the story of the table or to the overall article. I also think the title of the initial table was not very descriptive. 
 
+I thought the table was mostly useful combined with the article, giving it an 8. I did not think it was complete, as two drinks were missing, and a title with value was missing. It did alright with perceptability and intuitiveness, but would highly benefit from editing. I did not like it aesthetically at all, but the data was truthful and mostly engaging. 
+
+As a devoted coffee drinker, I was drawn to this. I like being able to see varying caffeine contents, and it reaffirms a thought that I had. I did not like the table form -- it's harder to compare numbers without some sort of relating baseline, and I think tables are not always the most intuitive way to display relationships. I think about this more of a spectrum, which is something I would like to see While the left-side graphic was fun, I don't think that it was the best use of space, and I also don't like the blue background -- it's too bright for my eyes, and does't have a high enough text contrast. It also doesn't really serve a purpose -- one UK coffee brand uses blue in their branding, but not that shade. 
+
+The primary audience is High Street (UK-based) chain coffee consumers, especially those who want to monitor their specific caffeine intake. I think it is technically effective as it has the data, but not efficient as there is no standard of comparison for what a good amount of caffeine is in the visualization, just in the body of the text. I think the article title is very striking, and want to incorporate that into the new visualization as well. 
+
+In my initial critique, I wanted to incorporate the suggested amount of daily caffeine intake into the visualization as well, and maybe the caffeine contents of chocolate or other more. I've seen other coffee charts that really lean into the cup visualization, which could be fun but distracting, so I planned to play with some different types. I'm really drawn to a spectrum for this, but I wasn't sure if that would be the easiest to read. 
+
 ## Step three: Sketch a solution
 Here are my two initial hand sketches, which I presented to my group members for interviews. 
 ![sketch1](IMG_3470.jpeg)
