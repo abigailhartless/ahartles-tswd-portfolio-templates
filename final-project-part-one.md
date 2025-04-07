@@ -16,6 +16,8 @@ Lastly, I will probably tie something in from my other research about theatre ce
 
 This is a story that is not getting nearly enough attention, and is one causing a lot of anxiety in the field of theatre. Many theatremakers are not aware of how unique the financials of theatres are, and spreading an untrue narrative in a period of greater unrest only negatively contributes to the current state of the field.
 
+Based on my peer feedback from class on Monday, I'll need to incorporate context on nonprofit funding structures and information on the impact of arts organizations. My peers suggested having a data-focused call to action incorporating the financial benefit provided by arts organzations, which is easily accessible and public, so I will incorporate that as well. If I have time, I'll find some data on sociological benefits of the arts, although it may not be as necessary. 
+
 ## Initial sketches
 ![sketch1](IMG_3535.jpg)
 ![sketch2](IMG_3536.jpg)
