@@ -28,10 +28,9 @@ While I have not yet compiled the data into my own spreadsheet, I will be conver
 | Name | URL | Description |
 |------|-----|-------------|
 |   2023 TCG Theatre Facts   |  https://docs.google.com/document/d/1okFwp-kxcLBdlA3c3nEolnXNSZbL9nw6e_RaTG3w9Wo/edit?tab=t.0   | 2023 compliation of publicly-available nonprofit theatre finance data |
-|   2021 TCG Theatre Facts   |  https://docs.google.com/document/d/1Co-d3NPBOiUfx7bvgTOAydFVvxtHGCNeB2bbAUReYjo/edit?tab=t.0#heading=h.gjdgxs  | 2023 compliation of publicly-available nonprofit theatre finance data |
+|   2021 TCG Theatre Facts   |  https://docs.google.com/document/d/1Co-d3NPBOiUfx7bvgTOAydFVvxtHGCNeB2bbAUReYjo/edit?tab=t.0#heading=h.gjdgxs  | 2021 compliation of publicly-available nonprofit theatre finance data |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
 I would like to use Shorthand to create my project, but I am unfamiliar with it so will need a good bit of practice time. I anticipate compiling my data in a Google Sheet and then exporting it into a format that will interact well with Shorthand. I want to utilize an interactive dashboard, and would like to stick with Tableau or Power BI, but will play around to see what integrates best with Shorthand. 
 
@@ -42,4 +41,4 @@ Theatre Communications Group, Theatre Facts 2021. Theatre Communications Group, 
 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I did not use any AI to complete this assignment. 
