@@ -14,6 +14,8 @@ I also want to do a year-to-year comparison, as people tend to look at 2021 and 
 
 Lastly, I will probably tie something in from my other research about theatre censorship, probably a well-known theatre speaking out against censorship. Tying this in will contribute to my overall goal of preventing as much doom & gloom in theatre makers, as there is significantly less outside control than often realized in many theatres. 
 
+This is a story that is not getting nearly enough attention, and is one causing a lot of anxiety in the field of theatre. Many theatremakers are not aware of how unique the financials of theatres are, and spreading an untrue narrative in a period of greater unrest only negatively contributes to the current state of the field.
+
 ## Initial sketches
 ![sketch1](IMG_3535.jpg)
 ![sketch2](IMG_3536.jpg)
