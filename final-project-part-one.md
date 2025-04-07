@@ -15,8 +15,8 @@ I also want to do a year-to-year comparison, as people tend to look at 2021 and 
 Lastly, I will probably tie something in from my other research about theatre censorship, probably a well-known theatre speaking out against censorship. Tying this in will contribute to my overall goal of preventing as much doom & gloom in theatre makers, as there is significantly less outside control than often realized in many theatres. 
 
 ## Initial sketches
-![sketch1](IMG_3535.jpeg)
-![sketch2](IMG_3536.jpeg)
+![sketch1](IMG_3535.jpg)
+![sketch2](IMG_3536.jpg)
 
 The above sketches will integrate into my outline. I want to display the total appropriation number, then the number given to TCG member theatres. Then, the 2023 percent of federal funding, the 2018 percent, and the graph of percents from 2018-2023. I will also retain the other categories from the initial data set, but grey them out, so the percent of funding from larger sources is visible. 
 
