@@ -1,6 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-
-# Outline
+# Final Project: Part 1
+## Outline
 
  There is a lot of fear surrounding federal funding changes and their effects on nonprofit organizations, specifically nonprofit arts organizations. Many nonprofit organizations and their advocates are worried for their futures, but in reality, many nonprofit arts organizations are not majorly reliant on federal funding. I will be looking at historical theatre funding data from TCG's annual theatre facts report, and showing how funding for theates has changed over the past 5 years, and (hopefully) assuaging fears about theatre funding.
 
