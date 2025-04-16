@@ -43,7 +43,11 @@ I will set the scene with my class presentation by asking my peers to assume tha
 |  switch ordering of 2018 & 2023 to align with story |   most likely, need to make sure it lines up with my narrative 
 | use theatre photos | will be using my own theatre photos, will get to go through them all as a treat as one of my last steps | 
 ## References
-_List any references you used here._
+
+Theatre Communications Group, Theatre Facts 2023. Theatre Communications Group, 2025. https://docs.google.com/document/d/1okFwp-kxcLBdlA3c3nEolnXNSZbL9nw6e_RaTG3w9Wo/edit?tab=t.0
+
+Theatre Communications Group, Theatre Facts 2021. Theatre Communications Group, 2023. https://docs.google.com/document/d/1Co-d3NPBOiUfx7bvgTOAydFVvxtHGCNeB2bbAUReYjo/edit?tab=t.0#heading=h.gjdgxs
+
 
 ## AI acknowledgements
 I did not use any AI to complete this project
