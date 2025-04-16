@@ -1,9 +1,7 @@
 | [home page](https://abigailhartless.github.io/ahartles-tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
-Text here!
+Here is the link to my Shorthand draft: https://preview.shorthand.com/MLaKAILs5FplYWAU
 
 # User research 
 Because it is most important to tell arts administrators that theatre is not as reliant on federal funding as they may think, I decided to split my interviews into my Telling Stories with Data classmates, and my peers in the arts management program. I conducted interviews with three peers in my section, and then with four peers in arts management on break for another class, all who had previously taken Telling Stories with Data. 
@@ -42,10 +40,8 @@ I will set the scene with my class presentation by asking my peers to assume tha
 | shift coloring of templates to align with theme | will shift and choose colors after I incorporate my visualizations
 | include average grant size to organizations  | might include -- will depend on timing; most arts managers will already know|
 | don't linger too much on how theatres are operating | maybe? will need to think about this  |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-
+|  switch ordering of 2018 & 2023 to align with story |   most likely, need to make sure it lines up with my narrative 
+| use theatre photos | will be using my own theatre photos, will get to go through them all as a treat as one of my last steps | 
 ## References
 _List any references you used here._
 
