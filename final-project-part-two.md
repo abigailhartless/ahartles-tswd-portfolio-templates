@@ -35,7 +35,7 @@ Based on my interviews, my classmates suggested I include information about the 
 I will set the scene with my class presentation by asking my peers to assume that they understand how theatres are funded. I also will make my script, andn
 
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
+| Research synthesis   | Anticipated changes for Part III  |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | shift coloring of templates to align with theme | will shift and choose colors after I incorporate my visualizations
 | include average grant size to organizations  | might include -- will depend on timing; most arts managers will already know|
