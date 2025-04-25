@@ -1,8 +1,10 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-Here is the link to my final Shorthand presentation
-(https://carnegiemellon.shorthandstories.com/theatre-funding-trends/index.html)
+Here is the link to my final Shorthand presentation - 
+[(https://carnegiemellon.shorthandstories.com/theatre-funding-trends/index.html)](https://carnegiemellon.shorthandstories.com/1348f125-222c-4fa5-8da0-3830389ba1d6/index.html)
+
+I chose to publish this to access only for people with the link to make it a little more private for job applications, I have a few other things I want in the first search results online :) 
 
 # Changes made since Part II
 I had quite a few changes since finishing part 2. First, between finishing part 2 and creating my final shorthand document for my in class presentation, I realized that the story I needed to tell was a little different, and that instead it was important for me to highlight the decrease in contribtued income from 2022-2023. While it is still important for theatre administrators to know that they are not as reliant on federal funding as they may think, they are increasingly reliant on other forms of contributed income, and it is crucial for them to invest in their development staff and teams, and support them through an increasingly difficult contributed income situation. 
